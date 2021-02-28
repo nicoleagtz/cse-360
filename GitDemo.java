@@ -1,5 +1,6 @@
 /*****
  * Nicole Gutierrez
+ * URL: https://github.com/nicoleagtz/cse-360-assignment1
  ******/
 public class GitDemo {
     
